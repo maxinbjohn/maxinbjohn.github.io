@@ -14,7 +14,7 @@ Here are some of my contributions to free and open-source software projects:
 
 ### Poky
 
-- [View all my commits poky](https://git.yoctoproject.org/poky/log/?qt=grep&q=Maxin)
+- [View all my commits in poky](https://git.yoctoproject.org/poky/log/?qt=grep&q=Maxin)
   _Description_: Explore all contributions I've made to Yocto project.
 
 ### meta-openembedded
@@ -25,4 +25,6 @@ Here are some of my contributions to free and open-source software projects:
 ### meta-yocto
 
 - [View all my commits in meta-yocto](https://git.yoctoproject.org/meta-yocto/log/?qt=grep&q=Maxin)
+  _Description_: Explore all contributions I've made to meta-yocto.
 
+---
