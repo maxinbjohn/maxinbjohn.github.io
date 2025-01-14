@@ -55,8 +55,6 @@ Here are some of my contributions to free and open-source software projects:
 ---
 ## The Zephyr OS
 
-### Zephyr RTOS
-
 - [View all my commits in Zephyr](https://github.com/zephyrproject-rtos/zephyr/commits/main?author=maxinbjohn)
   _Description_: Explore all contributions to Zephyr RTOS
 
@@ -86,15 +84,23 @@ Here are some of my contributions to free and open-source software projects:
 ---
 ## U-Boot
 
-### U-Boot bootloader
-
 - [View all my commits in U-Boot](https://source.denx.de/u-boot/u-boot/-/commits/master?search=Maxin)
   _Description_: Explore all contributions to U-Boot
 
 ---
-## Openhub link
+## mesa
 
-### openhub
+- [View all my commits in mesa](https://gitlab.freedesktop.org/mesa/mesa/-/commits/main?search=Maxin+B.+John)
+  _Description_: Explore all contributions to mesa
+
+---
+## Trinity
+
+- [View all my commits in trinity](https://github.com/kernelslacker/trinity/commits?author=maxinbjohn)
+  _Description_: Explore all contributions to Trinity Linux system call fuzzer
+---
+
+## openhub
 
 - [View all my commits](https://openhub.net/accounts/maxin_john/positions)
   _Description_: Explore all contributions.
