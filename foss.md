@@ -74,12 +74,12 @@ Here are some of my contributions to free and open-source software projects:
 ### ELL
 
 - [View all my commits in Embedded Linux library ](https://git.kernel.org/pub/scm/libs/ell/ell.git/commit/?id=622985e5c8fd3fafaa01314d3cd8b39082be0e2d)
-  _Description_: Explore all contributions to ELL (Mentioned in "Authors" file)
+  _Description_: Mentioned in "Authors" file - project specific way
 
 ### connman
 
 - [View all my commits in connman ](https://git.kernel.org/pub/scm/network/connman/connman.git/commit/?id=c5c059050f6cfc11d6d06f1d7bc91d5cd2ebfa8f)
-  _Description_: Explore all contributions to connman (Mentioned in "Authors" file)
+  _Description_: Mentioned in "Authors" file - project specific way.
 
 ---
 ## U-Boot
@@ -98,8 +98,14 @@ Here are some of my contributions to free and open-source software projects:
 
 - [View all my commits in trinity](https://github.com/kernelslacker/trinity/commits?author=maxinbjohn)
   _Description_: Explore all contributions to Trinity Linux system call fuzzer
----
 
+---
+## Linux Gazette Articles
+
+- [View my Published Articles in Linux Gazette](https://linuxgazette.net/authors/john.html)
+  _Description_: Articles in Linux Gazette
+
+---
 ## openhub
 
 - [View all my commits](https://openhub.net/accounts/maxin_john/positions)
