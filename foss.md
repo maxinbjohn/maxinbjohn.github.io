@@ -66,6 +66,11 @@ Here are some of my contributions to free and open-source software projects:
 - [View all my commits in Linux Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=grep&q=Maxin+B.+John)
   _Description_: Explore all contributions to Linux Kernel
 
+### Linux Kernel man pages
+
+- [View all my commits in Linux Kernel man pages](https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/log/?qt=grep&q=Maxin)
+  _Description_: Explore all contributions to Linux Kernel man pages
+
 ### mdadm
 
 - [View all my commits in mdadm](https://git.kernel.org/pub/scm/utils/mdadm/mdadm.git/log/?qt=grep&q=Maxin+B.+John)
